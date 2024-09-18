@@ -4,13 +4,13 @@ You can view the Parrot Card Game App live at <a href="https://rafaellatado.gith
 
 ## Technologies Used
 
-JavaScript: For interactivity and DOM manipulation.
-HTML: For structuring the content of the website.
-CSS: For styling, responsive layout and 3D animation.
-Git: Tracks changes and manages the project's codebase.
-VSCode: The primary code editor used, offering various extensions and productivity tools.
-Google Fonts: For enhanced typography and design consistency.
-Ionicons: For iconography and visual elements.
+- JavaScript: For interactivity and DOM manipulation.
+- HTML: For structuring the content of the website.
+- CSS: For styling, responsive layout and 3D animation.
+- Git: Tracks changes and manages the project's codebase.
+- VSCode: The primary code editor used, offering various extensions and productivity tools.
+- Google Fonts: For enhanced typography and design consistency.
+- Ionicons: For iconography and visual elements.
 
 ## Project Description
 
