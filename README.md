@@ -1,4 +1,4 @@
-# Memory Game
+# Memory Card Game
 
 You can view the Parrot Card Game App live at <a href="https://rafaellatado.github.io/parrot-card-game/" target="_blank">https://rafaellatado.github.io/parrot-card-game/</a>.
 
