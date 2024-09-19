@@ -26,14 +26,6 @@ header {
   padding: 50px 50px 0 50px;
 }
 
-@media (max-width: 480px) {
-
-  .card-container {
-    max-width: 120px;
-  }
-
-}
-
 .card {
   width: 117px;
   height: 146px;
